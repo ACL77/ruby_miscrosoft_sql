@@ -1,9 +1,11 @@
 # Ruby and Microsoft SQL Server Demo
 
 Install Ruby with DevKit
-rubyinstaller-devkit-2.5.7-1-x64
-https://rubyinstaller.org/downloads/
+
+[rubyinstaller-devkit-2.5.7-1-x64](https://rubyinstaller.org/downloads/)
+
 Choose MSYS2 base instalation when asked
+
 
 In the command line run to install [sinatra](https://github.com/sinatra/sinatra)
 ```
