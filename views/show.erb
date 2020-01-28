@@ -1,0 +1,10 @@
+<h1>Player <%= @player.id %></h1>
+
+<div><strong>Name:</strong> <%= @player.name %></div>
+<div><strong>Position:</strong> <%= @player.position %></div>
+<div><strong>Club:</strong> <%= @player.club %></div>
+
+<br>
+
+
+<a href="/players">Back to Players</a> | <a href="/players/<%= @player.id %>/delete">Destroy</a>
